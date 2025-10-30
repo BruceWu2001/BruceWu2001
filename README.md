@@ -4,12 +4,12 @@ Hi 👋 My name is Wu Zi Jian - alias Bruce
 FullStack Developer
 -------------------
 
-While I am more comfortable with frontend frameworks, I have been managing both front and back end especially in Next.js.
+I have been managing both front and back end especially in Next.js.
 
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [Personal Website](http://wuzijian.vercel.app/)
 * ✉️  You can contact me at [zijian.wu.2022@scis.smu.edu.sg](mailto:zijian.wu.2022@scis.smu.edu.sg)
-* 🧠  I'm learning Typescript and tRPC
+* 🧠  I'm learning Rust
 
 ### Skills
 
